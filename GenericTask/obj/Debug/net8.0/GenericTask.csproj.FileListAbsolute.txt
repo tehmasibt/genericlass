@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.exe
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.deps.json
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.dll
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.pdb
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.dll
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\refint\GenericTask.dll
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.pdb
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Generic\GenericTask\GenericTask\obj\Debug\net8.0\ref\GenericTask.dll
